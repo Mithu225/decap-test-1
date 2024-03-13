@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   branch: main
   repo: Mithu225/decap-test-1
 
